@@ -1,0 +1,142 @@
+Initializing RX port 3...
+RX port 3 is up!
+TX port 3 is up!
+
+Checking link status..................................................done
+Port 3 Link Down
+Starting an CPF on lcore 2
+Starting an CPF on lcore 4
+Starting an CPF on lcore 6
+Starting an CPF on lcore 8
+Starting an CPF on lcore 10
+Starting an CPF on lcore 12
+
+
+Signal 2 received, preparing to exit...
+CPF main RX thread recv count: 1982464
+Len: 108
+Port 3: rx_good_packets:		1982464
+Port 3: tx_good_packets:		1171456
+Port 3: rx_good_bytes:		427040768
+Port 3: tx_good_bytes:		1194884130
+Port 3: rx_unicast_packets:		1982464
+Port 3: rx_unknown_protocol_packets:		1982470
+Port 3: tx_unicast_packets:		1171456
+Port 3: tx_link_down_dropped:		1
+Port 3: mac_local_errors:		1
+Port 3: rx_size_65_to_127_packets:		6
+Port 3: rx_size_128_to_255_packets:		1622016
+Port 3: rx_size_256_to_511_packets:		270336
+Port 3: rx_size_1024_to_1522_packets:		90112
+Port 3: tx_size_65_to_127_packets:		7
+Port 3: tx_size_1024_to_1522_packets:		1171456
+New messages: 44250 | Res messages: 191894
+Response count 0
+Time_v len: 44250
+Len: 108
+Port 3: rx_good_packets:		1982464
+Port 3: tx_good_packets:		1171456
+Port 3: rx_good_bytes:		411181056
+Port 3: tx_good_bytes:		1194884130
+Port 3: rx_unicast_packets:		1982464
+Port 3: rx_unknown_protocol_packets:		1982470
+Port 3: tx_unicast_packets:		1171456
+Port 3: tx_link_down_dropped:		1
+Port 3: mac_local_errors:		1
+Port 3: rx_size_65_to_127_packets:		6
+Port 3: rx_size_128_to_255_packets:		1622016
+Port 3: rx_size_256_to_511_packets:		270336
+Port 3: rx_size_1024_to_1522_packets:		90112
+Port 3: tx_size_65_to_127_packets:		7
+Port 3: tx_size_1024_to_1522_packets:		1171456
+New messages: 44914 | Res messages: 195287
+Response count 0
+Len: 108
+Port 3: rx_good_packets:		1982464
+Port 3: tx_good_packets:		1171456
+Port 3: rx_good_bytes:		411181056
+Port 3: tx_good_bytes:		1194884130
+Port 3: rx_unicast_packets:		1982464
+Port 3: rx_unknown_protocol_packets:		1982470
+Port 3: tx_unicast_packets:		1171456
+Port 3: tx_link_down_dropped:		1
+Port 3: mac_local_errors:		1
+Port 3: rx_size_65_to_127_packets:		6
+Port 3: rx_size_128_to_255_packets:		1622016
+Port 3: rx_size_256_to_511_packets:		270336
+Port 3: rx_size_1024_to_1522_packets:		90112
+Port 3: tx_size_65_to_127_packets:		7
+Port 3: tx_size_1024_to_1522_packets:		1171456
+New messages: 46128 | Res messages: 199506
+Response count 0
+Len: 108
+Port 3: rx_good_packets:		1982464
+Port 3: tx_good_packets:		1171456
+Port 3: rx_good_bytes:		419110912
+Port 3: tx_good_bytes:		1194884130
+Port 3: rx_unicast_packets:		1982464
+Port 3: rx_unknown_protocol_packets:		1982470
+Port 3: tx_unicast_packets:		1171456
+Port 3: tx_link_down_dropped:		1
+Port 3: mac_local_errors:		1
+Port 3: rx_size_65_to_127_packets:		6
+Port 3: rx_size_128_to_255_packets:		1622016
+Port 3: rx_size_256_to_511_packets:		270336
+Port 3: rx_size_1024_to_1522_packets:		90112
+Port 3: tx_size_65_to_127_packets:		7
+Port 3: tx_size_1024_to_1522_packets:		1171456
+New messages: 44667 | Res messages: 193643
+Response count 0
+Len: 108
+Port 3: rx_good_packets:		1982464
+Port 3: tx_good_packets:		1171456
+Port 3: rx_good_bytes:		411181056
+Port 3: tx_good_bytes:		1194884130
+Port 3: rx_unicast_packets:		1982464
+Port 3: rx_unknown_protocol_packets:		1982470
+Port 3: tx_unicast_packets:		1171456
+Port 3: tx_link_down_dropped:		1
+Port 3: mac_local_errors:		1
+Port 3: rx_size_65_to_127_packets:		6
+Port 3: rx_size_128_to_255_packets:		1622016
+Len: 108
+Port 3: rx_size_256_to_511_packets:		270336
+Port 3: rx_good_packets:		1982464
+Port 3: tx_good_packets:		1171456
+Port 3: rx_good_bytes:		411181056
+Port 3: tx_good_bytes:		1194884130
+Port 3: rx_unicast_packets:		1982464
+Port 3: rx_unknown_protocol_packets:		1982470
+Port 3: tx_unicast_packets:		1171456
+Port 3: tx_link_down_dropped:		1
+Port 3: mac_local_errors:		1
+Port 3: rx_size_65_to_127_packets:		6
+Port 3: rx_size_128_to_255_packets:		1622016
+Port 3: rx_size_256_to_511_packets:		270336
+Port 3: rx_size_1024_to_1522_packets:		90112
+Port 3: tx_size_65_to_127_packets:		7
+Port 3: tx_size_1024_to_1522_packets:		1171456
+New messages: 43770 | Res messages: 189703
+Port 3: rx_size_1024_to_1522_packets:		90112
+Response count 0
+Port 3: tx_size_65_to_127_packets:		7
+Port 3: tx_size_1024_to_1522_packets:		1171456
+New messages: 46607 | Res messages: 201423
+Response count 0
+Processed 324644 packets
+Time_v len: 44914
+Dropped count: 0
+Processed 330029 packets
+Time_v len: 46128
+Dropped count: 0
+Processed 337890 packets
+Time_v len: 44667
+Dropped count: 0
+Processed 327644 packets
+Time_v len: 43770
+Dropped count: 0
+Processed 321013 packets
+Time_v len: 46607
+Dropped count: 0
+Processed 341244 packets
+Dropped count: 0

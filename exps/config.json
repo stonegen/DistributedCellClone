@@ -1,0 +1,24 @@
+{
+    "repeat": 1,
+    "experiments": [
+        {
+            "bursty": false,
+            "proc_count": [
+                10000
+            ],
+            "cpfs": 6,
+            "replicas": 3,
+            "cpfs_action": [
+                {"1": "straggler", "type": 2},
+                {"2": "straggler", "type": 2}
+            ],
+            "scheme": "asn1",
+            "procedure": "attach",
+            "duration": 60,
+            "rate": [
+                10000
+            ],
+            "workers": 8
+        }
+    ]
+}

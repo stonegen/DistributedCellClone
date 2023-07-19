@@ -1,0 +1,16 @@
+build/
+.vscode/
+results/
+logs/
+pktgen.lck
+config.json.sample
+helper/.init.o.cmd
+helper/.init.o.d
+helper/.pkt_helper.o.cmd
+helper/.pkt_helper.o.d
+helper/init.o
+helper/pkt_helper.o
+servers_credentials.json
+state_machine/.state_machine.o.cmd
+state_machine/.state_machine.o.d
+state_machine/state_machine.o
